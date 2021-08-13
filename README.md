@@ -1,7 +1,10 @@
 ### Hi there 👋
-<!--STARTS_HERE_QUOTE_README-->
-<i>❝“Where is the ‘any’ key?”— Homer Simpson, in response to the message, “Press any key”   ❞</i>
-<!--ENDS_HERE_QUOTE_README-->
+- 🔭 I’m a technical Recruiter currently working at [Orange Logic](https://www.orangelogic.com/)
+- 👯 I’m looking for [Software Engineer](https://github.com/awesome-jobs/vietnam/issues/2786) 
+- 💬 What our team says about [Product and Working environment](https://vietnam.orangelogic.com/#team)
+- 📫 How to reach me: ha.nguyen@orangelogic.com | [Linkedin](https://www.linkedin.com/in/ha-nguyen-01a752ba/)
+- ⚡ What we offer
+- ![OL - about OL   what we offer](https://user-images.githubusercontent.com/51194208/129318022-095733d1-161e-40f9-8bba-a98b1a51fbc6.png)
 
 <!--
 **hanguyenOL/hanguyenol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
