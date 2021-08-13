@@ -5,7 +5,7 @@
 - 📫 How to reach me: ha.nguyen@orangelogic.com | [Linkedin](https://www.linkedin.com/in/ha-nguyen-01a752ba/)
 - ⚡ What we offer
 
-- ![OL - about OL   what we offer](https://user-images.githubusercontent.com/51194208/129319456-b725d41c-f9f6-45b1-b183-cc041bca31f2.png)
+ ![OL - about OL   what we offer](https://user-images.githubusercontent.com/51194208/129319456-b725d41c-f9f6-45b1-b183-cc041bca31f2.png)
 
 
 <!--
