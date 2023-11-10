@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m a technical recruiter currently working at [Orange Logic](https://www.orangelogic.com/)
-- 👯 I’m looking for [Software Engineer](https://github.com/awesome-jobs/vietnam/issues/2786) 
-- 💬 What our team says about [Product and Working Environment](https://vietnam.orangelogic.com/#team)
+- 👯 I’m looking for [Software and DevOps Engineer](https://github.com/awesome-jobs/vietnam/issues/2786) 
+- 💬 What our team says about [Product and Working Environment](https://www.ol-vietnam.vn/#team)
 - 📫 How to reach me: ha.nguyen@orangelogic.com | [Linkedin](https://www.linkedin.com/in/ha-nguyen-h%E1%BA%A1-01a752ba/)
 - ⚡ What we offer
 
